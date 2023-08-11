@@ -1,0 +1,276 @@
+done!
+Total of 8000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.000021 secs
+Create/Fill buckets and reallocate memory: 0.000087 secs
+Sort buckets: 0.000077 secs
+Put on the original array and free buckets: 0.000039 secs
+
+Wall clock time: 0.000455 secs
+PAPI_TOT_CYC = 521529
+PAPI_TOT_INS = 812462
+PAPI_L1_DCM = 5225
+PAPI_L2_DCM = 1257
+CPI = 0.64
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 8000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.000019 secs
+Create/Fill buckets and reallocate memory: 0.000084 secs
+Sort buckets: 0.000076 secs
+Put on the original array and free buckets: 0.000040 secs
+
+Wall clock time: 0.000426 secs
+PAPI_TOT_CYC = 513547
+PAPI_TOT_INS = 812454
+PAPI_L1_DCM = 5328
+PAPI_L2_DCM = 1276
+CPI = 0.63
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 8000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.000020 secs
+Create/Fill buckets and reallocate memory: 0.000082 secs
+Sort buckets: 0.000083 secs
+Put on the original array and free buckets: 0.000039 secs
+
+Wall clock time: 0.000437 secs
+PAPI_TOT_CYC = 519006
+PAPI_TOT_INS = 812463
+PAPI_L1_DCM = 5264
+PAPI_L2_DCM = 1383
+CPI = 0.64
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 64000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.000030 secs
+Create/Fill buckets and reallocate memory: 0.000499 secs
+Sort buckets: 0.000444 secs
+Put on the original array and free buckets: 0.000118 secs
+
+Wall clock time: 0.001308 secs
+PAPI_TOT_CYC = 2675835
+PAPI_TOT_INS = 4947946
+PAPI_L1_DCM = 34635
+PAPI_L2_DCM = 8649
+CPI = 0.54
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 64000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.000029 secs
+Create/Fill buckets and reallocate memory: 0.000490 secs
+Sort buckets: 0.000453 secs
+Put on the original array and free buckets: 0.000120 secs
+
+Wall clock time: 0.001306 secs
+PAPI_TOT_CYC = 2685789
+PAPI_TOT_INS = 4947946
+PAPI_L1_DCM = 34388
+PAPI_L2_DCM = 8381
+CPI = 0.54
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 64000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.000030 secs
+Create/Fill buckets and reallocate memory: 0.000494 secs
+Sort buckets: 0.000442 secs
+Put on the original array and free buckets: 0.000125 secs
+
+Wall clock time: 0.001304 secs
+PAPI_TOT_CYC = 2660470
+PAPI_TOT_INS = 4947939
+PAPI_L1_DCM = 34682
+PAPI_L2_DCM = 8143
+CPI = 0.54
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 6400000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.001211 secs
+Create/Fill buckets and reallocate memory: 0.044165 secs
+Sort buckets: 0.006964 secs
+Put on the original array and free buckets: 0.005294 secs
+
+Wall clock time: 0.057950 secs
+PAPI_TOT_CYC = 118574757
+PAPI_TOT_INS = 155607959
+PAPI_L1_DCM = 1520414
+PAPI_L2_DCM = 747241
+CPI = 0.76
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 6400000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.001382 secs
+Create/Fill buckets and reallocate memory: 0.045189 secs
+Sort buckets: 0.006846 secs
+Put on the original array and free buckets: 0.005177 secs
+
+Wall clock time: 0.058899 secs
+PAPI_TOT_CYC = 119583353
+PAPI_TOT_INS = 156643802
+PAPI_L1_DCM = 1506348
+PAPI_L2_DCM = 748503
+CPI = 0.76
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 6400000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.001644 secs
+Create/Fill buckets and reallocate memory: 0.045462 secs
+Sort buckets: 0.007403 secs
+Put on the original array and free buckets: 0.005206 secs
+
+Wall clock time: 0.060029 secs
+PAPI_TOT_CYC = 118594909
+PAPI_TOT_INS = 155514502
+PAPI_L1_DCM = 1513270
+PAPI_L2_DCM = 747071
+CPI = 0.76
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 2000000000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.297740 secs
+Create/Fill buckets and reallocate memory: 13.419563 secs
+Sort buckets: 5.839485 secs
+Put on the original array and free buckets: 1.238783 secs
+
+Wall clock time: 20.796188 secs
+PAPI_TOT_CYC = 48917424340
+PAPI_TOT_INS = 47691009373
+PAPI_L1_DCM = 414937908
+PAPI_L2_DCM = 106086395
+CPI = 1.03
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 2000000000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.300011 secs
+Create/Fill buckets and reallocate memory: 13.229479 secs
+Sort buckets: 5.741334 secs
+Put on the original array and free buckets: 1.264152 secs
+
+Wall clock time: 20.535574 secs
+PAPI_TOT_CYC = 49129211457
+PAPI_TOT_INS = 47692735818
+PAPI_L1_DCM = 412688643
+PAPI_L2_DCM = 106265410
+CPI = 1.03
+
+Vector is sort...Valid result.
+That's all, folks
+done!
+Total of 2000000000 elements!
+
+Setting up PAPI...done!
+This system has 11 available counters.
+
+Initializing Vector...
+done!
+
+Find min, max and range: 0.286369 secs
+Create/Fill buckets and reallocate memory: 13.143965 secs
+Sort buckets: 5.650230 secs
+Put on the original array and free buckets: 1.330760 secs
+
+Wall clock time: 20.411920 secs
+PAPI_TOT_CYC = 48874434836
+PAPI_TOT_INS = 47689590355
+PAPI_L1_DCM = 412963762
+PAPI_L2_DCM = 104762034
+CPI = 1.02
+
+Vector is sort...Valid result.
+That's all, folks
